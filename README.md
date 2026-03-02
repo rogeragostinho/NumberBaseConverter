@@ -1,10 +1,9 @@
 # 🔢 Number Base Converter (8086 Assembly)
 
-Projeto de Exame – Sistemas Digitais II
-
-Curso de Engenharia Informática
-
-Universidade Católica de Angola (UCAN)
+Projeto de Exame – Sistemas Digitais II  
+Curso de Engenharia Informática  
+Universidade Católica de Angola (UCAN)  
+#
 
 Este repositório contém um conversor de bases numéricas desenvolvido em **Assembly x86** para o processador **Intel 8086**. O projeto foca-se na manipulação de dados a baixo nível, demonstrando como o hardware processa e traduz informações entre o utilizador e o CPU.
 
